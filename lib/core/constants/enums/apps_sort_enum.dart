@@ -1,0 +1,1 @@
+enum AppsSort { Son, AZ, ZA }

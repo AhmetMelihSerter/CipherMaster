@@ -1,0 +1,1 @@
+enum TabItem { MainPage, AppsPage, PhotosPage, FoldersPage}
