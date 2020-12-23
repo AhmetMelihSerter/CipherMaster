@@ -1,4 +1,6 @@
 # Cipher Master
+## Note
+  **This application is still in development**
 ## Features
 
 - Keeps your passwords securely.
